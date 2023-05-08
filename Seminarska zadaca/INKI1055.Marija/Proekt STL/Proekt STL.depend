@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683573261 source:c:\users\user1\desktop\mainrepos\naprednoprogramiranje2023\seminarska zadaca\inki1055.marija\proekt stl\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<string>
+
